@@ -5,8 +5,6 @@
 ## 🚀 **Demo Video**  
 [Watch the Demo Here!](#) ▶️ 
 
----
-
 ## ✨ **Features**  
 
 ### 🩺 **Disease Diagnosis**  
@@ -30,8 +28,6 @@
 6. **IoT Integration 🔗** for real-time, personalized health updates.  
 7. Potential collaboration opportunities for **healthcare device manufacturers 🏭**.  
 
----
-
 ## 🛠️ **Tech Stack**  
 
 ### 💻 **Frontend**  
@@ -52,8 +48,6 @@
 ### ☁️ **Cloud & Tools**  
 - **Google Cloud ☁️**  
 - **Streamlit 🚀**  
-
----
 
 Feel free to contribute to **MedNeuron** and help us push the boundaries of AI in healthcare! 🚀  
 
