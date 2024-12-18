@@ -3,7 +3,7 @@
 **MedNeuron** is a cutting-edge web application that harnesses the power of **AI 🤖** and **Deep Learning 🧠** to revolutionize healthcare. It offers intuitive and accessible features for **disease diagnosis**, **personalized treatment recommendations**, and **remote patient monitoring**, aiming to improve patient outcomes and make healthcare more efficient.  
 
 ## 🚀 **Demo Video**  
-[Watch the Demo Here!](#) ▶️ 
+[Watch the Demo Here!](#)
 
 ## ✨ **Features**  
 
